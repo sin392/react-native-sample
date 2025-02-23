@@ -25,7 +25,7 @@ const Index = (): JSX.Element => {
         />
       </View>
 
-      <CircleButton />
+      <CircleButton>＋</CircleButton>
 
     </View>
   )
